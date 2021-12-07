@@ -5,3 +5,5 @@ A two player game for Arthematic lovers, Get a random generated number with a ra
  * We have 2 chanches per game use it wisely it dosen't effect the score (for now).
 
 ## How to run?
+
+$ git clone 
