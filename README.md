@@ -6,4 +6,10 @@ A two player game for Arthematic lovers, Get a random generated number with a ra
 
 ## How to run?
 
-$ git clone 
+$ git clone https://github.com/Maherukh/VinSol.git
+
+* unzip the files
+* Open in VS Code and use Live Server to run it and inspect the code
+
+### Enjoy the game 
+All suggestions welcome
